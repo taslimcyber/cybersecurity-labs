@@ -9,3 +9,7 @@ The scenario is an automated chain of events: light detection, sound activation,
 What I worked on: network design and configuration on Cisco, Wi-Fi security with WPA2, IoT protocols and machine to machine data flows, the attack surface of a connected ecosystem, and troubleshooting convergence problems.
 
 Tools used: Cisco Packet Tracer, MQTT, WPA2.
+
+![Packet Tracer network of the smart home](smart-home-network.png)
+
+![Packet Tracer smart home overview](smart-home-house.png)
