@@ -9,3 +9,5 @@ The real analyst work happens in the packet inspection window. I read the Snort 
 Checking the raw network evidence before drawing a conclusion is the mindset I want to keep for a SOC or blue team role.
 
 Tools used: Sguil, Security Onion, Snort.
+
+![Sguil alert list and packet data](sguil-alert.png)
