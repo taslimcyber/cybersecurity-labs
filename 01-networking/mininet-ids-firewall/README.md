@@ -13,3 +13,5 @@ Finally I wrote an iptables rule on the FORWARD chain of the router to block all
 What I liked is seeing the link between detection (IDS), proof (packet capture) and reaction (firewall). These are the same three steps you find in any SOC.
 
 Tools used: Mininet, Snort, tcpdump, iptables.
+
+![Mininet topology of the lab](mininet-topology.png)
