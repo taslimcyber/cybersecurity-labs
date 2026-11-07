@@ -13,3 +13,5 @@ In that template I found the max_tokens parameter, set to 100, which caps the nu
 What I take from it: the API key authenticates, while max_tokens and the choice of model define the token budget of each request. Together with the usage monitoring in the Console, it is a simple way to keep AI costs under control.
 
 Tools used: Python, Claude API (Anthropic), Claude Console, Message Batches.
+
+![Message Batches page of the Claude Console](console-message-batches.png)
